@@ -1,4 +1,4 @@
-# RoDog — Integração Roblox x Discord
+# RoDog ![Static Badge](https://img.shields.io/badge/Ro-Bot-red)
 
 ---
 
