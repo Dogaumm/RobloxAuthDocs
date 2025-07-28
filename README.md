@@ -4,7 +4,7 @@
 
 ## Status do Projeto
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > Este projeto está atualmente em desenvolvimento.
 > Estamos aguardando a **validação e liberação do OAuth App pelo Roblox**.
 
