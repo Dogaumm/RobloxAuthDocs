@@ -1,0 +1,85 @@
+# RoDog — Integração Roblox x Discord
+
+---
+
+> Um sistema de verificação seguro entre sua conta **Discord** e sua conta **Roblox**, via **OAuth App oficial** *(em processo de aprovação)*.
+
+---
+
+## Status do Projeto
+
+[!IMPORTANT]
+> ### Este projeto está atualmente em desenvolvimento.
+> Estamos aguardando a **validação e liberação do OAuth App pelo Roblox**. Enquanto isso, você pode analisar nossas políticas no diretório [`Policies-BR`](./Policies-BR/).
+
+---
+
+## O que é o RoDog?
+
+`RoDog` é um **bot de verificação automatizada** que associa de forma segura a identidade de um usuário do Discord com sua conta Roblox, usando autenticação oficial (OAuth).
+
+### Principais recursos
+
+- 🔐 Verificação 100% automatizada e segura
+- 🤝 Integração com Discord e Roblox
+- 📝 Armazenamento mínimo de dados (sem informações sensíveis)
+- 📄 Transparência: termos, políticas e conduta bem definidos
+- 💬 Comandos úteis para gestão, suporte e controle
+
+---
+
+<!-- ## Como se verificar
+
+**Passo a passo para o usuário comum:**
+
+1. Entre no servidor do Discord que usa o bot (Dog)
+2. Use o comando:  
+3. Clique no link de verificação enviado pelo bot
+4. Faça login com sua conta Roblox via OAuth (site oficial)
+5. Pronto! Sua conta será vinculada ao seu Discord
+
+> [!CAUTION]
+> Se você não for redirecionado corretamente, repita o processo e verifique se está logado com a conta certa.
+
+---
+
+## Comandos disponíveis
+
+> Prefixo padrão: `$`
+
+| Comando           | Descrição                                         |
+|-------------------|--------------------------------------------------|
+| `$verificar`       | Inicia o processo de verificação OAuth          |
+| `$status`          | Mostra seu status de verificação                |
+| `$desvincular`     | Remove a verificação entre sua conta e o Roblox |
+| `$ajuda`           | Mostra os comandos e como utilizar              |
+| `$perturbar [pergunta]` | Responde com uma frase aleatória            |
+
+> Mais comandos em breve com o lançamento completo.
+
+--- -->
+
+## 📜 Políticas e Documentações
+
+Todas as políticas estão organizadas por idioma.  
+Veja as versões em **Português (BR)**:
+
+📁 [`Policies-BR`](./Policies-BR/)
+
+---
+
+## Contato
+
+Caso tenha dúvidas, sugestões ou queira relatar um problema:
+
+<!-- - Discord: `SeuServidor.com/discord`-->
+- GitHub Issues: [Abrir uma issue](https://github.com/Dogaumm/RobloxAuthDocs/issues)
+- E-mail: `DogaumADM@gmail.com`
+
+---
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [`LICENSE`](/LICENSE) para mais detalhes.
+
+---
