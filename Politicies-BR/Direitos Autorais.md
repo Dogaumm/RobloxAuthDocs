@@ -1,4 +1,4 @@
-# ©️ Política de Direitos Autorais
+# [©️] - Política de Direitos Autorais || [PdDA]
 
 ---
 

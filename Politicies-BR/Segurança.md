@@ -1,4 +1,4 @@
-# 📄 Política de Segurança
+# [📄] - Política de Segurança || [PdS]
 
 ---
 

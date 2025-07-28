@@ -1,4 +1,4 @@
-# 📄 Política de Uso Aceitável
+# [📄] - Política de Uso Aceitável || [PdUA]
 
 ---
 

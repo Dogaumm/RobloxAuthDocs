@@ -1,4 +1,4 @@
-# 📄 Política de Privacidade
+# [📄] - Política de Privacidade || [PdP]
 
 ---
 

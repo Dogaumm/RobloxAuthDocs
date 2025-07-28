@@ -1,4 +1,4 @@
-# 📄 Política de Termos de Uso
+# [📄] - Política de Termos de Uso || [PdTU]
 
 ---
 
