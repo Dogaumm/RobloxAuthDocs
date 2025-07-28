@@ -45,6 +45,6 @@ Caso tenha dúvidas, sugestões ou queira relatar um problema:
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja [`LICENSE`](/LICENSE) para mais detalhes. https://img.shields.io/badge/Ro-Dog-blue
+Distribuído sob a licença MIT. Veja [`LICENSE`](/LICENSE) para mais detalhes. ![RoDog Badge](https://img.shields.io/badge/Ro-Dog-blue)
 
 ---
