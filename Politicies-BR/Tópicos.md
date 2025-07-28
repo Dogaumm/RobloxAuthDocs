@@ -3,7 +3,7 @@
 ---
 
 ## Política de Termos de Uso | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Termos.md/#última-atualização:)
 
 > - [Requisitos](./Termos.md/#requisitos)
@@ -12,7 +12,7 @@
 > - [Atualizações](./Termos.md/#atualizações)
 
 ## Política de Privacidade | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Privacidade.md/#última-atualização:)
 
 > - [Dados Coletados](./Privacidade.md/#dados-coletados)
@@ -22,7 +22,7 @@
 > - [Remoção de Dados](./Privacidade.md/#remoção-de-dados)
 
 ## Política de Segurança | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Segurança.md/#última-atualização:)
 
 > - [Como Reportar Vulnerabilidades](./Segurança.md/#como-reportar-vulnerabilidades)
@@ -31,7 +31,7 @@
 > - [Transparência](./Segurança.md/#transparência)
 
 ## Política de Código de Conduta | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Código%20de%20Conduta.md/#última-atualização:)
 
 > - [Comportamentos Esperados](./Código%20de%20Conduta.md/#comportamento-esperado)
@@ -40,20 +40,20 @@
 > - [Denúncias](./Código%20de%20Conduta.md/#denúncias)
 
 ## Política de Uso Aceitável | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Uso%20Aceitável.md/#última-atualização:)
 
 > - [Usos Proibidos](./Uso%20Aceitável.md/#usos-proibidos)
 > - [Boas Práticas](./Uso%20Aceitável.md/#boas-práticas)
 
 ## Política de Declaração de Isenção de Responsabilidade | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Declaração%20de%20Isenção.md/#última-atualização:)
 
 > - [Ir](./Declaração%20de%20Isenção.md/#---política-de-declaração-de-isenção-de-responsabilidade--pddir)
 
 ## Política de Direitos Autorais | [![POLITICIE BADGE](https://img.shields.io/badge/POL%C3%8DTICA-black)]
-> [!TIP]
+> [!NOTE]
 > [`Última Atualização`](./Direitos%20Autorais.md/#última-atualização:)
 
 > - [Licença](./Direitos%20Autorais.md/#licença)
