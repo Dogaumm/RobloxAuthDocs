@@ -2,7 +2,7 @@
 
 ---
 
-## Termos
+## Política de Termos de Uso
  - [Última Atualização](./Termos.md/#última-atualização:)
 
 > - [Requisitos](./Termos.md/#requisitos)
@@ -10,7 +10,7 @@
 > - [Responsabilidades](./Termos.md/#responsabilidades)
 > - [Atualizações](./Termos.md/#atualizações)
 
-## Privacidade
+## Política de Privacidade
  - [Última Atualização](./Privacidade.md/#última-atualização:)
 
 > - [Dados Coletados](./Privacidade.md/#dados-coletados)
@@ -19,7 +19,7 @@
 > - [Compartilhamento com Terceiros](./Privacidade.md/#compartilhamento-com-terceiros)
 > - [Remoção de Dados](./Privacidade.md/#remoção-de-dados)
 
-## Segurança
+## Política de Segurança
  - [Última Atualização](./Segurança.md/#última-atualização:)
 
 > - [Como Reportar Vulnerabilidades](./Segurança.md/#como-reportar-vulnerabilidades)
@@ -27,7 +27,7 @@
 > - [Prazo de resposta](./Segurança.md/#prazo-de-resposta)
 > - [Transparência](./Segurança.md/#transparência)
 
-## Código de Conduta
+## Política de Código de Conduta
  - [Última Atualização](./Código%20de%20Conduta.md/#última-atualização:)
 
 > - [Comportamentos Esperados](./Código%20de%20Conduta.md/#comportamento-esperado)
@@ -35,13 +35,18 @@
 > - [Consequências](./Código%20de%20Conduta.md/#consequências)
 > - [Denúncias](./Código%20de%20Conduta.md/#denúncias)
 
-## Uso Aceitável
+## Política de Uso Aceitável
  - [Última Atualização](./Uso%20Aceitável.md/#última-atualização:)
 
 > - [Usos Proibidos](./Uso%20Aceitável.md/#usos-proibidos)
 > - [Boas Práticas](./Uso%20Aceitável.md/#boas-práticas)
 
-## Direitos Autorais
+## Política de Declaração de Isenção de Responsabilidade
+ - [Última Atualização](./Declaração%20de%20Isenção.md/#última-atualização:)
+
+> - [Ir](./Declaração%20de%20Isenção.md/#---política-de-declaração-de-isenção-de-responsabilidade--pddir)
+
+## Política de Direitos Autorais
  - [Última Atualização](./Direitos%20Autorais.md/#última-atualização:)
 
 > - [Licença](./Direitos%20Autorais.md/#licença)
