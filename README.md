@@ -2,7 +2,7 @@
 
 ---
 
-## Status do Projeto
+## 🔴 Status do Projeto
 
 > [!IMPORTANT]
 > Este projeto está atualmente em desenvolvimento.
