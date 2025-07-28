@@ -8,7 +8,7 @@ Todos os conteúdos, incluindo código-fonte, documentação e imagens utilizada
 
 ## 🔓 Licença
 
-Este projeto é disponibilizado sob a [MIT License](./LICENSE).
+Este projeto é disponibilizado sob a [MIT License](/LICENSE).
 
 ## 🛑 Proibições
 

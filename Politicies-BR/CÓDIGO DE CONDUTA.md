@@ -34,7 +34,7 @@ Qualquer violação pode ser denunciada via:
 
 - GitHub Issues
 - Discord oficial
-- E-mail: `seuprojeto+conduta@example.com`
+- E-mail: `DogaumADM@gmail.com`
 
 Todas as denúncias serão tratadas com **seriedade e confidencialidade**.
 

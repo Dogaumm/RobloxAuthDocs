@@ -13,7 +13,7 @@ Caso você descubra uma falha de segurança ou comportamento indevido:
 1. **Não divulgue publicamente.**
 2. Envie um relatório detalhado via:
    - GitHub Issues (privado ou com tag `security`)
-   - E-mail: `seuprojeto+seguranca@example.com`
+   - E-mail: `DogaumADM@gmail.com`
    - Discord (caso haja um servidor oficial)
 
 ## 🧠 O que incluir no seu relatório
