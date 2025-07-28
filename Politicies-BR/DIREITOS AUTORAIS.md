@@ -2,7 +2,7 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Todos os conteúdos, incluindo código-fonte, documentação e imagens utilizadas neste projeto são protegidos por direitos autorais conforme a legislação vigente.
 

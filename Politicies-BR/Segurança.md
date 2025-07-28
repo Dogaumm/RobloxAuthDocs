@@ -2,7 +2,7 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Levamos a segurança do nosso projeto muito a sério. Incentivamos todos os usuários e desenvolvedores a reportarem **vulnerabilidades** ou **comportamentos suspeitos** que possam comprometer a segurança dos dados ou do sistema.
 

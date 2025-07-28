@@ -2,25 +2,25 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Este projeto adota um código de conduta para garantir um ambiente **inclusivo, respeitoso e colaborativo** para todos os usuários e contribuidores.
 
-## 🤝 Comportamento Esperado
+## Comportamento Esperado
 
 - Ser respeitoso e educado em interações.
 - Aceitar críticas construtivas.
 - Usar linguagem apropriada.
 - Tratar todos com igualdade, independentemente de gênero, etnia, orientação sexual, religião ou deficiência.
 
-## 🚫 Comportamentos Inaceitáveis
+## Comportamentos Inaceitáveis
 
 - Agressões verbais ou discriminação.
 - Assédio sexual ou moral.
 - Intimidação ou ameaças.
 - Compartilhamento de conteúdo ofensivo ou NSFW.
 
-## ⚖️ Consequências
+## Consequências
 
 Comportamentos que violem este código podem resultar em:
 
@@ -28,7 +28,7 @@ Comportamentos que violem este código podem resultar em:
 - Banimento do repositório
 - Denúncia ao GitHub ou Discord
 
-## 📬 Denúncias
+## Denúncias
 
 Qualquer violação pode ser denunciada via:
 

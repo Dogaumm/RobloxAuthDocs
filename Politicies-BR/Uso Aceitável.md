@@ -2,7 +2,7 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Nosso bot é uma ponte segura entre Discord e Roblox. Para manter a integridade do serviço, é proibido:
 

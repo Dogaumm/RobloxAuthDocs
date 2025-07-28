@@ -2,7 +2,7 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Utilizamos a autenticação OAuth do Roblox exclusivamente para associar sua conta do Discord à sua conta do Roblox. Levamos sua privacidade a sério e nos comprometemos com a proteção de seus dados.
 

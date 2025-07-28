@@ -2,7 +2,7 @@
 
 ---
 
-**Última atualização:** Julho de 2025
+**Última atualização:** `Julho de 2025`
 
 Ao utilizar este bot do Discord, você concorda com os seguintes termos:
 
