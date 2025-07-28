@@ -6,23 +6,25 @@
 
 Ao utilizar este bot do Discord, você concorda com os seguintes termos:
 
-## ✅ Requisitos
+---
+
+## Requisitos
 
 - Possuir uma conta ativa no Discord.
 - Utilizar apenas contas Roblox válidas e de sua propriedade.
 
-## 🚫 Condutas Proibidas
+## Condutas Proibidas
 
 - Usar o bot para fins maliciosos, spam, ou automação indevida.
 - Tentar enganar o sistema de verificação OAuth.
 - Modificar ou clonar o bot sem autorização expressa.
 
-## 🧾 Responsabilidades
+## Responsabilidades
 
 - O usuário é responsável por manter a segurança da própria conta no Discord e Roblox.
 - Não nos responsabilizamos por perdas ou danos causados por uso indevido da integração.
 
-## 💡 Atualizações
+## Atualizações
 
 Estes termos podem ser modificados a qualquer momento. O uso contínuo do bot implica aceitação das mudanças.
 

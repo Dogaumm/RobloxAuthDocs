@@ -6,6 +6,8 @@
 
 Este projeto adota um código de conduta para garantir um ambiente **inclusivo, respeitoso e colaborativo** para todos os usuários e contribuidores.
 
+---
+
 ## Comportamento Esperado
 
 - Ser respeitoso e educado em interações.

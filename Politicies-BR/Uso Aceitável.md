@@ -6,14 +6,16 @@
 
 Nosso bot é uma ponte segura entre Discord e Roblox. Para manter a integridade do serviço, é proibido:
 
-## 🚫 Usos Proibidos
+---
+
+## Usos Proibidos
 
 - Utilizar exploits do Roblox com o bot.
 - Realizar scraping, brute-force ou ataques à API.
 - Criar contas automatizadas ou falsificadas para enganar o sistema.
 - Assediar outros usuários através do bot.
 
-## ✅ Boas Práticas
+## Boas Práticas
 
 - Use o bot conforme a documentação.
 - Denuncie comportamentos suspeitos ou bugs.
