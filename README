@@ -2,10 +2,6 @@
 
 ---
 
-> Um sistema de verificação seguro entre sua conta **Discord** e sua conta **Roblox**, via **OAuth App oficial** *(em processo de aprovação)*.
-
----
-
 ## Status do Projeto
 
 [!IMPORTANT]
@@ -28,37 +24,6 @@
 
 ---
 
-<!-- ## Como se verificar
-
-**Passo a passo para o usuário comum:**
-
-1. Entre no servidor do Discord que usa o bot (Dog)
-2. Use o comando:  
-3. Clique no link de verificação enviado pelo bot
-4. Faça login com sua conta Roblox via OAuth (site oficial)
-5. Pronto! Sua conta será vinculada ao seu Discord
-
-> [!CAUTION]
-> Se você não for redirecionado corretamente, repita o processo e verifique se está logado com a conta certa.
-
----
-
-## Comandos disponíveis
-
-> Prefixo padrão: `$`
-
-| Comando           | Descrição                                         |
-|-------------------|--------------------------------------------------|
-| `$verificar`       | Inicia o processo de verificação OAuth          |
-| `$status`          | Mostra seu status de verificação                |
-| `$desvincular`     | Remove a verificação entre sua conta e o Roblox |
-| `$ajuda`           | Mostra os comandos e como utilizar              |
-| `$perturbar [pergunta]` | Responde com uma frase aleatória            |
-
-> Mais comandos em breve com o lançamento completo.
-
---- -->
-
 ## 📜 Políticas e Documentações
 
 Todas as políticas estão organizadas por idioma.  
@@ -72,7 +37,6 @@ Veja as versões em **Português (BR)**:
 
 Caso tenha dúvidas, sugestões ou queira relatar um problema:
 
-<!-- - Discord: `SeuServidor.com/discord`-->
 - GitHub Issues: [Abrir uma issue](https://github.com/Dogaumm/RobloxAuthDocs/issues)
 - E-mail: `DogaumADM@gmail.com`
 
