@@ -1,4 +1,4 @@
-# 📄 Termos de Uso
+# 📄 Política de Termos de Uso
 
 ---
 
@@ -10,7 +10,7 @@ Ao utilizar este bot do Discord, você concorda com os seguintes termos:
 
 ## Requisitos
 
-- Possuir uma conta ativa no Discord.
+- Possuir uma conta no Discord.
 - Utilizar apenas contas Roblox válidas e de sua propriedade.
 
 ## Condutas Proibidas
