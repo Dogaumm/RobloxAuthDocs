@@ -14,6 +14,8 @@
 
 **RoDog** é um **bot de verificação automatizada** que associa de forma segura a identidade de um usuário do Discord com sua conta Roblox, usando autenticação oficial (OAuth).
 
+> [!TIP]
+> [`BOT - Adicionar ao Servidor`](https://discordapp.com/oauth2/authorize?client_id=1318267258912505926)
 ### Principais recursos
 
 - 🔐 Verificação 100% automatizada e segura
