@@ -14,7 +14,7 @@ Todas as marcas registradas pertencem aos seus respectivos proprietários.
 
 Não nos responsabilizamos por:
 
->[!CAUTION]
+> [!CAUTION]
 > - Danos causados por uso incorreto do bot
 > - Suspensões de contas de usuários no Roblox ou Discord
 > - Interrupções externas no serviço (APIs, webhooks, etc)
